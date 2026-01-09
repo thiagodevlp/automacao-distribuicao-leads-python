@@ -13,7 +13,7 @@ Interface: Criação de uma interface simples para que usuários não técnicos 
 
 Versionamento: Todo o controle de código foi realizado via Git/GitHub.
 
-Resultados de Impacto (O que o iFood quer ler)
+Resultados de Impacto 
 Agilidade: O tempo de recebimento dos leads pela equipe de vendas foi drasticamente reduzido.
 
 Produtividade: Feedback real dos usuários confirmando que "conseguiram contatar mais clientes" devido à rapidez do sistema.
