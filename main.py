@@ -198,3 +198,4 @@ lista_vendedores.pack(pady=50, padx=100)
 # Executa a janela principal
 janela.mainloop()
 
+
